@@ -1,0 +1,22 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "e2d054be-49df-4e90-8336-f4935a12e33f")
+	(paper "A4")
+	(title_block
+		(title "Section 02: ATmega2560 Main MCU")
+		(date "2026-04-10")
+		(rev "1")
+		(comment 1 "Arduino Mega 2560 - Student Practice")
+		(comment 2 "ATmega2560-16AU, decoupling caps, AREF cap, crystal Y1, reset circuit, ICSP header")
+		(comment 3 "Use symbols from: Arduino_Mega2560_Lib")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
